@@ -191,4 +191,4 @@
 
 ## 🔗 友情链接
 
-- [LINUX DO - 新的理想型社区](https://linux.do/)
+- [LINUX DO - 新的 理想型社区](https://linux.do/)
